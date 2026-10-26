@@ -1,0 +1,1 @@
+bsd test_tvector.cpp test_tmatrix.cpp test_ttrmatrix.cpp test_main.cpp -lgtest -lgtest_main -pthread
